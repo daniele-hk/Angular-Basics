@@ -1,0 +1,9 @@
+h2 {
+    text-align: center;
+}
+
+span {
+    color: red;
+    font-style: oblique;
+    border: 2px solid rgb(243, 28, 189);
+}
